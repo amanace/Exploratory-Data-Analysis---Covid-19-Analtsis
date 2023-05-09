@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis---Covid-19-Analtsis
+# Exploratory-Data-Analysis---Covid-19-Analysis
